@@ -22,9 +22,7 @@
         </style>
     </head>
     <body>
-        <div id="example">
-        </div>
-
+        <div id="app" />
     <script src="{{ asset('js/app.js') }}"></script>
     </body>
 </html>
